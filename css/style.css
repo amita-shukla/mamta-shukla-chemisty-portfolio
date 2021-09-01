@@ -1313,7 +1313,7 @@ a:focus {
 
 .contact .contact-form {
   position: relative;
-  padding: 90px 0 90px 45px;
+  padding: 45px 0 45px 45px;
   background: #ffffff;
   /* background: #ef233c; */
 }
@@ -1387,7 +1387,7 @@ a:focus {
   }
 
   .contact .contact-form {
-    padding: 90px 0;
+    padding: 45px 0;
   }
 }
 /*******************************/
